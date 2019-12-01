@@ -2,3 +2,13 @@ body {
 	background: none;
 }
 
+figure {
+	margin: 0 auto;
+	background: gray;
+}
+
+figure video {
+	margin: 0 auto;
+	float: center;
+	display: block;
+}
